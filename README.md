@@ -1,4 +1,4 @@
-# Listing all my notable scholar and personal projects on Github
+# Listing all my notable school and personal projects on Github
 
  - [Final project of the Wild Code School](https://github.com/cyril-lemaire/projet_final_WCS/tree/Chirilu) (Symfony 3 website)
  - [Licobox](https://github.com/cyril-lemaire/Licobox) (Symfony 3 website - 1 night Hackathon)
